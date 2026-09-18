@@ -1,0 +1,10 @@
+{
+  "description": "This web application allows users to create and customize their own websites effortlessly, providing templates and tools for seamless design and publishing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
